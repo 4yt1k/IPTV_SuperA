@@ -1,7 +1,6 @@
 name: IPTV M3U 每天自动更新
 
-on:push
-  workflow_dispatch:
+on: push
 
 jobs:
   build:
