@@ -2,7 +2,7 @@ name: IPTV M3U 每天自动更新
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天凌晨执行
+    - cron: '0 15 * * *'  # 每天凌晨执行
   workflow_dispatch:
 
 jobs:
