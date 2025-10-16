@@ -1,5 +1,6 @@
 name: IPTV M3U 每天自动更新
 
+on: push
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天凌晨执行
