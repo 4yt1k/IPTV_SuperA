@@ -214,9 +214,9 @@ def generate_txt_file(channels, output_path, custom_sort_order=None):
 
 async def main():
     subscribe_file = 'config/subscribe.txt'
-    #output_m3u = 'output/result.m3u'
+    output_m3u = 'output/result.m3u'
     #output_m3u = 'https://gist.github.com/4yt1k/e4f1f19a01a3d7bfec38c52440181ae7/au.m3u'
-    output_m3u = 'https://github.com/4yt1k/x86/tree/main/m3u/au.m3u'
+    #output_m3u = 'https://github.com/4yt1k/x86/tree/main/m3u/au.m3u'
     output_txt = 'output/result.txt'
     # 包含想保留的组名或频道的文件
     include_list_file = 'config/include_list.txt'
@@ -272,5 +272,6 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+
 
 
