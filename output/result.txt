@@ -34,8 +34,8 @@
 新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8
 
 🚩｜港•澳•台#genre#
-无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 🎱｜数字频道#genre#
 金鹰纪实,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
