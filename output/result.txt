@@ -1,4 +1,5 @@
 ❄️｜卫视频道#genre#
+内蒙古卫视,https://shyd.695847.xyz/cms001/ch00000090990000001068/index.m3u8?IAS
 浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8
 江苏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8
 湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8
@@ -28,19 +29,18 @@
 辽宁卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226393/index.m3u8
 吉林卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226389/index.m3u8
 黑龙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8
-内蒙古卫视,https://shyd.695847.xyz/cms001/ch00000090990000001068/index.m3u8?IAS
 青海卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8
 西藏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8
 新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8
 
 🍄｜4K频道#genre#
-广东卫视,https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
 浙江卫视,https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
 江苏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
 湖南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
 东方卫视,https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
 北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226438/index.m3u8
 深圳卫视,https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+广东卫视,https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
 四川卫视,https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
 山东卫视,https://shyd.695847.xyz/cms001/ch00000090990000001582/index.m3u8?IAS
 

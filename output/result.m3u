@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTGRP:❄️｜卫视频道
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="❄️｜卫视频道",内蒙古卫视
+https://shyd.695847.xyz/cms001/ch00000090990000001068/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="❄️｜卫视频道",浙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8&replay=1&days=7
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="❄️｜卫视频道",江苏卫视
@@ -58,8 +60,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226393/index.m3u8&replay=
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226389/index.m3u8&replay=1&days=7
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="❄️｜卫视频道",黑龙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8&replay=1&days=7
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="❄️｜卫视频道",内蒙古卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001068/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="❄️｜卫视频道",青海卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8&replay=1&days=7
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="❄️｜卫视频道",西藏卫视
@@ -68,8 +68,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8&replay=
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8&replay=1&days=7
 
 #EXTGRP:🍄｜4K频道
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="🍄｜4K频道",广东卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="🍄｜4K频道",浙江卫视
 https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="🍄｜4K频道",江苏卫视
@@ -82,6 +80,8 @@ https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS&replay=1&da
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226438/index.m3u8&replay=1&days=7
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="🍄｜4K频道",深圳卫视
 https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS&replay=1&days=7
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="🍄｜4K频道",广东卫视
+https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="🍄｜4K频道",四川卫视
 https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS&replay=1&days=7
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="🍄｜4K频道",山东卫视
